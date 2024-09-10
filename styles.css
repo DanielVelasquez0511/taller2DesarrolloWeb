@@ -4,6 +4,11 @@ body {
     padding: 0;
 }
 
+/* MAICOL */
+
+
+
+/* Daniel */
 .container {
     width: 80%;
     margin: 0 auto;
@@ -60,4 +65,37 @@ footer .social-links li {
 footer .social-links li a {
     color: #fff;
     text-decoration: none;
+}
+/* Johan */
+
+.contact-form {
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.contact-form h2 {
+    margin-top: 0;
+}
+
+.contact-form label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+.contact-form input, .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.contact-form button {
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
 }
